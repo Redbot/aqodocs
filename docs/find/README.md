@@ -1,7 +1,16 @@
-# Find Item Window
+---
+tags:
+  - script
+  - lua
+repository: "https://github.com/aquietone/finditemwindow"
+resource_link: "https://www.redguides.com/community/resources/find-item-window.2669/"
+support_link: "https://www.redguides.com/community/threads/find-item-window.84775/"
+authors: "aquietone"
+tagline: "This lua script recreates the find item window from live EQ for EMU servers where it does not exist."
+---
 
-[View Repo](https://github.com/aquietone/finditemwindow){target=_blank}  
-[Download](https://github.com/aquietone/finditemwindow/archive/refs/heads/main.zip)  
+# Find Item Window
+{{ frontmatter_infobox() }}
 
 ## Overview
 

@@ -1,0 +1,5 @@
+docs_site: "https://aquietone.github.io/docs/"
+docs_repository: "https://github.com/aquietone/docs"
+docs_path_transform:
+  from: "projects/aqo/"
+  to: ""

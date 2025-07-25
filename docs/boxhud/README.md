@@ -1,10 +1,16 @@
+---
+tags:
+  - script
+  - lua
+resource_link: "https://www.redguides.com/community/resources/boxhud.2088/"
+support_link: "https://www.redguides.com/community/threads/boxhud.77414/"
+repository: "https://github.com/aquietone/boxhud"
+authors: "aquietone"
+tagline: "A HUD which uses DanNet to display box information."
+---
+
 # BoxHUD
-
-[View Repo](https://github.com/aquietone/boxhud){target=_blank}  
-[View on RedGuides](https://www.redguides.com/community/resources/boxhud.2088/){target=_blank}  
-[Download](https://github.com/aquietone/boxhud/archive/refs/heads/master.zip)  
-
-A HUD which uses DanNet to display box information.
+{{ frontmatter_infobox() }}
 
 ![](../images/boxhud/boxhud.png)
 

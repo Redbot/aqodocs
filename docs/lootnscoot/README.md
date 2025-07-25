@@ -1,7 +1,16 @@
-# Loot N Scoot
+---
+tags:
+  - script
+  - lua
+resource_link: "https://www.redguides.com/community/resources/lootnscoot-for-emu.2675/"
+support_link: "https://www.redguides.com/community/threads/lootnscoot-for-emu.84912/"
+repository: "https://github.com/aquietone/lootnscoot"
+authors: "aquietone"
+tagline: "Advanced looting and selling for EMU servers."
+---
 
-[View Repo](https://github.com/aquietone/lootnscoot){target=_blank}  
-[Download](https://github.com/aquietone/lootnscoot/archive/refs/heads/main.zip)  
+# Loot N Scoot
+{{ frontmatter_infobox() }}
 
 ## Overview
 

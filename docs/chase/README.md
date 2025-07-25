@@ -1,10 +1,16 @@
+---
+tags:
+  - script
+  - lua
+resource_link: "https://www.redguides.com/community/resources/chase.2392/"
+support_link: "https://www.redguides.com/community/threads/chase.81102/"
+repository: "https://github.com/aquietone/luachase"
+authors: "aquietone"
+tagline: "Standalone MQ2Nav based chase utility similar to CWTN chase mode."
+---
+
 # Chase
-
-[View Repo](https://github.com/aquietone/luachase){target=_blank}  
-[View on RedGuides](https://www.redguides.com/community/resources/chase.2392/){target=_blank}  
-[Download](https://github.com/aquietone/luachase/archive/refs/heads/main.zip)  
-
-Standalone MQ2Nav based chase utility similar to CWTN chase mode.
+{{ frontmatter_infobox() }}
 
 ![](../images/chase/chase_window.png) ![](../images/chase/chase_tlo.png) ![](../images/chase/chase_options.png)
 

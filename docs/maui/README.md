@@ -1,8 +1,16 @@
-# MAUI
+---
+tags:
+  - script
+  - lua
+resource_link: "https://www.redguides.com/community/resources/maui-muleassist-ui.2207/"
+support_link: "https://www.redguides.com/community/threads/maui-muleassist-ui.78762/"
+repository: "https://github.com/aquietone/maui"
+authors: "aquietone"
+tagline: "An INI Editor for the MuleAssist macro."
+---
 
-[View Repo](https://github.com/aquietone/maui){target=_blank}  
-[View on RedGuides](https://www.redguides.com/community/resources/maui-muleassist-ui.2207/){target=_blank}  
-[Download](https://github.com/aquietone/maui/archive/refs/heads/main.zip)  
+# MAUI
+{{ frontmatter_infobox() }}
 
 An INI Editor for the MuleAssist macro.
 

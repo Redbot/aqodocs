@@ -1,8 +1,16 @@
-# Condition Builder
+---
+tags:
+  - script
+  - lua
+resource_link: "https://www.redguides.com/community/resources/macro-condition-builder.2652/"
+repository: "https://github.com/aquietone/condition-builder"
+support_link: "https://www.redguides.com/community/threads/macro-condition-builder.84298/"
+authors: "aquietone"
+tagline: "Helper for building KA/MA conditions."
+---
 
-[View Repo](https://github.com/aquietone/condition-builder){target=_blank}  
-[View on RedGuides](https://www.redguides.com/community/resources/macro-condition-builder.2652/){target=_blank}  
-[Download](https://github.com/aquietone/condition-builder/archive/refs/heads/main.zip)  
+# Condition Builder
+{{ frontmatter_infobox() }}
 
 ![](../images/condbuilder/condbuilder.png)
 
