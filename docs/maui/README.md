@@ -10,7 +10,6 @@ tagline: "An INI Editor for the MuleAssist macro."
 ---
 
 # MAUI
-{{ frontmatter_infobox() }}
 
 An INI Editor for the MuleAssist macro.
 

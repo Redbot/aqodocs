@@ -10,7 +10,6 @@ tagline: "Standalone MQ2Nav based chase utility similar to CWTN chase mode."
 ---
 
 # Chase
-{{ frontmatter_infobox() }}
 
 ![](../images/chase/chase_window.png) ![](../images/chase/chase_tlo.png) ![](../images/chase/chase_options.png)
 

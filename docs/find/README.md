@@ -10,7 +10,6 @@ tagline: "This lua script recreates the find item window from live EQ for EMU se
 ---
 
 # Find Item Window
-{{ frontmatter_infobox() }}
 
 ## Overview
 

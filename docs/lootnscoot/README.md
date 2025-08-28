@@ -10,7 +10,6 @@ tagline: "Advanced looting and selling for EMU servers."
 ---
 
 # Loot N Scoot
-{{ frontmatter_infobox() }}
 
 ## Overview
 

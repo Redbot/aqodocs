@@ -10,7 +10,6 @@ tagline: "A weakauras-like take on text based events (like `MQ2Events`) and cond
 ---
 
 # Event Manager
-{{ frontmatter_infobox() }}
 
 ![](../images/lem/lem.png)
 

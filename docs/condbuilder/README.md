@@ -10,7 +10,6 @@ tagline: "Helper for building KA/MA conditions."
 ---
 
 # Condition Builder
-{{ frontmatter_infobox() }}
 
 ![](../images/condbuilder/condbuilder.png)
 

@@ -10,7 +10,6 @@ tagline: "A utility to test out lua expressions and view the resulting datatypes
 ---
 
 # Lua Expression Evaluator
-{{ frontmatter_infobox() }}
 
 ![](../images/eval/eval.png)
 
