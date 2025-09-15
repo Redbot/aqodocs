@@ -14,7 +14,7 @@ tagline: "Standalone MQ2Nav based chase utility similar to CWTN chase mode."
 ![](../images/chase/chase_window.png) ![](../images/chase/chase_tlo.png) ![](../images/chase/chase_options.png)
 
 ## Overview
-
+<!--desc-start-->
 Chases the specified player using MQ2Nav, because who likes that pesky afollow. Not much else to it. It will chase if the chase distance is exceeded and you are not currently:  
 
 * Casting (unless you're a bard)  
@@ -25,7 +25,7 @@ Chases the specified player using MQ2Nav, because who likes that pesky afollow. 
 * Already nav'ing somewhere  
 
 Intended for use when running something without an available chase mode, or characters outside of group or some other situation where your only option is typically afollow. Don't try to run this at the same time as something else which does chasing.  
-
+<!--desc-end-->
 ## Installation
 
 ### Manual Install

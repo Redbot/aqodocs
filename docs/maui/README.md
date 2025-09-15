@@ -16,10 +16,10 @@ An INI Editor for the MuleAssist macro.
 ![](../images/maui/maui.png)
 
 ## Overview
-
+<!--desc-start-->
 MAUI is a replacement for the `MQ2Mule` plugin so that `MuleAssist` users can continue to have a UI to make INI updates.  
 It doesn't do everything which the old plugin did, but it should look pretty familiar.  
-
+<!--desc-end-->
 ## Installation
 
 ### Manual Install

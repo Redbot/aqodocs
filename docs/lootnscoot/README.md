@@ -12,7 +12,7 @@ tagline: "Advanced looting and selling for EMU servers."
 # Loot N Scoot
 
 ## Overview
-
+<!--desc-start-->
 This is a port of the RedGuides copy of `ninjadvloot.inc` with some updates as well.  
 
 I may have glossed over some of the events or edge cases so it may have some issues around things like:  
@@ -22,7 +22,7 @@ I may have glossed over some of the events or edge cases so it may have some iss
 - ...  
 
 Or those things might just work, I just haven't tested it very much using lvl 1 toons on project lazarus.  
-
+<!--desc-end-->
 This script can be used in two ways:  
 
 1. Included within a larger script using require, for example if you have some KissAssist-like lua script:

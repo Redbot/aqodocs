@@ -14,9 +14,9 @@ tagline: "A utility to test out lua expressions and view the resulting datatypes
 ![](../images/eval/eval.png)
 
 ## Overview
-
+<!--desc-start-->
 A utility to test out lua expressions and view the resulting datatypes of the output, similar to the macro expression evaluator.
-
+<!--desc-end-->
 ## Installation
 
 Download the script and place it into the MQ `lua` folder.

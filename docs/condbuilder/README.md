@@ -14,9 +14,9 @@ tagline: "Helper for building KA/MA conditions."
 ![](../images/condbuilder/condbuilder.png)
 
 ## Overview
-
+<!--desc-start-->
 A utility to help generate valid macro if conditions for use in INI files such as KissAssist or MuleAssist conditions.
-
+<!--desc-end-->
 ## Installation
 
 Download the script and place it into the MQ `lua` folder.

@@ -14,9 +14,9 @@ tagline: "A HUD which uses DanNet to display box information."
 ![](../images/boxhud/boxhud.png)
 
 ## Overview
-
+<!--desc-start-->
 This Lua script provides an alternative to a similar `MQ2HUD/MQ2NetBots` based HUDs. Instead, it uses observed properties from `MQ2DanNet` to watch various bits of information about all your peers. It can also still use `MQ2NetBots` properties as well, though that is less tested.
-
+<!--desc-end-->
 ## Installation
 
 ### Manual Install

@@ -14,7 +14,7 @@ tagline: "A weakauras-like take on text based events (like `MQ2Events`) and cond
 ![](../images/lem/lem.png)
 
 ## Overview
-
+<!--desc-start-->
 Lua Event Manager is intended to provide an alternative to `mq2events`, `mq2react` and one-off lua scripts being written for events.  
 
 Rather than events with giant, difficult to read macro if statements, easy to read lua functions can be written to handle events instead.  
@@ -23,7 +23,7 @@ Rather than reacts with a YAML file that frequently gets corrupted or breaks fro
 
 Event definitions are global and stored in a shared `lem/settings.lua` file. Editing events from multiple characters can overwrite changes if you aren't reloading before making edits on a character.  
 Event enabled/disabled state is stored per character in a characters own `lem/characters/{name}.lua` file. Hopefully this allows to more safely enable or disable events across characters.  
-
+<!--desc-end-->
 ## Installation
 
 ### Manual Install
